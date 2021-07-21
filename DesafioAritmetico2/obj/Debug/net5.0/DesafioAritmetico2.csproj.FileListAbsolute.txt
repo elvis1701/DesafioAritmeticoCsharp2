@@ -1,0 +1,15 @@
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\bin\Debug\net5.0\DesafioAritmetico2.exe
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\bin\Debug\net5.0\DesafioAritmetico2.deps.json
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\bin\Debug\net5.0\DesafioAritmetico2.runtimeconfig.json
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\bin\Debug\net5.0\DesafioAritmetico2.runtimeconfig.dev.json
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\bin\Debug\net5.0\DesafioAritmetico2.dll
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\bin\Debug\net5.0\ref\DesafioAritmetico2.dll
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\bin\Debug\net5.0\DesafioAritmetico2.pdb
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\obj\Debug\net5.0\DesafioAritmetico2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\obj\Debug\net5.0\DesafioAritmetico2.AssemblyInfoInputs.cache
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\obj\Debug\net5.0\DesafioAritmetico2.AssemblyInfo.cs
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\obj\Debug\net5.0\DesafioAritmetico2.csproj.CoreCompileInputs.cache
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\obj\Debug\net5.0\DesafioAritmetico2.dll
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\obj\Debug\net5.0\ref\DesafioAritmetico2.dll
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\obj\Debug\net5.0\DesafioAritmetico2.pdb
+C:\Users\elvis\source\repos\DesafioAritmetico2\DesafioAritmetico2\obj\Debug\net5.0\DesafioAritmetico2.genruntimeconfig.cache
